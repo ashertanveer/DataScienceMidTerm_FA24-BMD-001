@@ -104,4 +104,10 @@ if("date_utc" %in% names(data) && "pm25" %in% names(data)) {
     ggtitle("PM2.5 Concentration Over Time")
 }
 
+# c) Interpretation (written in README or comments)
+# 1. PM2.5 and PM10 show strong correlation, indicating similar emission sources.
+# 2. Some locations have consistently higher PM2.5 levels, likely urban centers.
+# 3. Pollution levels fluctuate over time, possibly due to seasonal or weather changes.
+
+
 
